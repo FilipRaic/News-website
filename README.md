@@ -1,5 +1,5 @@
-# PWA-Projekt
-A demo news website created for a web development course.
+# Demo website
+A demo news website created for a web development course. Has no affiliation with Welt news and is not ment for commerical use.
 
 Admin:
 username: admin
